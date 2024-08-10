@@ -5,6 +5,7 @@ This repository contains a machine learning project focused on classifying image
 The dataset can be downloaded from the following links:
 
 [This link](https://bit.ly/37GH4Qg)
+
 [And this link](https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip)
 
 ## Clone the Repository
